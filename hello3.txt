@@ -1,2 +1,3 @@
 xxxxxxxxxxxx
 ++git diff: staged and modified++
+test git reset
